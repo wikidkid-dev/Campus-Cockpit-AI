@@ -1,4 +1,6 @@
 # Campus-Cockpit-AI
+https://campus-cockpit-ai.lovable.app/
+FIND IT ATTACHED ABOVE
 Campus Cockpit AI is a web-based campus management dashboard built using Lovable AI — a no-code / AI-first platform that generates full-stack applications from natural language prompts. The platform delivers a working codebase including frontend, backend APIs, database schemas, authentication, and deployment setups. 
 🛠️ Campus Cockpit AI
 Campus Cockpit AI is a web-based campus management dashboard built using Lovable AI — a no-code / AI-first platform that generates full-stack applications from natural language prompts. The platform delivers a working codebase including frontend, backend APIs, database schemas, authentication, and deployment setups. 
